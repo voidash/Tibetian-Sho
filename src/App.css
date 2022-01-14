@@ -1,0 +1,17 @@
+.main-frame {
+      position: relative;
+      width: 800px;
+      height: 800px;
+      border: 1px solid black;
+      margin: 0 auto;
+  }
+
+  .body-title {
+      text-align: center;
+  }
+
+  .body-roll-dice {
+      display: block;
+      margin: 0 auto;
+      font-size: 20px;
+  }

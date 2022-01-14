@@ -1,0 +1,24 @@
+.dice {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    border: 1px solid black;
+    width: 200px;
+
+    left: calc(50% - 100px);
+    top: calc(50% - 20px);
+}
+
+.dice-box {
+    width: 30px;
+    height: 30px;
+    border-radius: 12px;
+    margin: 4px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border: 1px solid black;
+}
